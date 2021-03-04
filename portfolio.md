@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Portfolio
-menu: true
+menu: false
 order: 1
 ---
 

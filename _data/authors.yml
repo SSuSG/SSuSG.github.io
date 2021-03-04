@@ -49,7 +49,7 @@ vvs:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          psg980331
+    github:          https://github.com/SSuSG
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -61,7 +61,7 @@ vvs:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           psg980331@naver.com
-    rss:             https://khw11044.github.io/feed.xml
+    #rss:             https://khw11044.github.io/feed.xml
 
 # Another author
 author2:

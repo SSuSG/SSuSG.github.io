@@ -22,8 +22,8 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              xxxx
-  email:             xxxx@xxxx.com
+  name:              SiGyun Park
+  email:             psg980331@naver.com
 
 # Fallback image and color
 image:               /assets/img/main_left.JPG
@@ -131,4 +131,11 @@ compress_html:
 sass:
   style:             compressed
 
-
+tipue_search:
+     include:
+         pages: false
+         collections: []
+     exclude:
+         files: [search.html, index.html, tags.html]
+         categories: []
+         tags: []
