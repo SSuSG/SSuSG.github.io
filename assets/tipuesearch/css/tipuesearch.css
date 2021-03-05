@@ -37,7 +37,7 @@ http://www.tipue.com/search
 
 #tipue_search_input
 {
-     color: #333;
+     color: rgb(245, 239, 239);
      max-width: 150px;
      max-height: 20px;
     padding: 15px;
